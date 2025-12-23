@@ -1,5 +1,6 @@
 
  **ABSTRACT**
+ 
 Fruit quality inspection is essential in supply chains and retail markets. Manual ripeness checking is time-consuming and subjective. This project applies color-based image segmentation using K-Means clustering to detect fruit ripeness automatically. Banana and apple images in raw, ripe, and overripe conditions were analyzed. Results show that ripe pixel percentage decreases and overripe percentage increases as fruit becomes older, proving the effectiveness of the proposed method.
 
 **1. INTRODUCTION**
